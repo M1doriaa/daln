@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45e006a1e1cd3e644926a0fb2cfa9044, type: 3}
+  m_Name: Mace
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: e600b90ad40b15f4386bf18e9dcee3bc, type: 3}
+  itemName: Mace
+  modelPrefab: {fileID: 3818927791652953322, guid: 6428f8f217d64124fafc016500d209d9, type: 3}
+  isUnarmed: 0
+  right_hand_idle: 
+  left_hand_idle: 
+  OH_Light_Attack_1: 
+  OH_Light_Attack_2: 
+  OH_Heavy_Attack_1: 
